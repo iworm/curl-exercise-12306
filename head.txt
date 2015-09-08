@@ -1,0 +1,17 @@
+HTTP/1.1 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 17:24:58.777
+Connection: close
+
+HTTP/1.1 200 OK
+Date: Wed, 18 Jan 2012 09:24:58 GMT
+Server: asfep/2.3.0 svn:3075
+Content-Type: text/html;charset=UTF-8
+X-Powered-By: Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+Set-Cookie: JSESSIONID=54984B9635B959E2B04C571D1145B3C4; Path=/otsweb
+Content-Length: 7733
+Set-Cookie: BIGipServerotsweb=2513699082.48160.0000; path=/
+X-Cache: MISS from cache.51cdn.com
+X-Via: 1.1 zjqzdx189:8888 (Cdn Cache Server V2.0)
+Connection: keep-alive
+
